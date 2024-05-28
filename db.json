@@ -1,0 +1,16 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Spider-Man Plush",
+        "precio": "19.99",
+        "imagen": "asset/spiderman.png"
+      },
+      {
+        "id": 2,
+        "nombre": "Bat-Man Plush",
+        "precio": "15.20",
+        "imagen": "asset/batman.png"
+      }
+    ]
+  }
