@@ -4,7 +4,7 @@
         "id": 1,
         "nombre": "Spider-Man Plush",
         "precio": "19.99",
-        "imagen": "asset/spiderman.png"
+        "imagen": "./asset/spiderman.png"
       },
       {
         "id": 2,
